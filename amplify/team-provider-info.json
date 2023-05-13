@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-newfolder3-dev-112021-authRole",
+      "UnauthRoleArn": "arn:aws:iam::946553815513:role/amplify-newfolder3-dev-112021-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::946553815513:role/amplify-newfolder3-dev-112021-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-newfolder3-dev-112021-deployment",
+      "UnauthRoleName": "amplify-newfolder3-dev-112021-unauthRole",
+      "StackName": "amplify-newfolder3-dev-112021",
+      "StackId": "arn:aws:cloudformation:ca-central-1:946553815513:stack/amplify-newfolder3-dev-112021/40f939f0-f156-11ed-b657-0a2d045d0bc0",
+      "AmplifyAppId": "d3pran447q7izo"
+    },
+    "categories": {
+      "auth": {
+        "newfolder3aa9fdc35": {}
+      },
+      "storage": {
+        "s3dd6c2dd8": {}
+      }
+    }
+  }
+}
